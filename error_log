@@ -1,0 +1,2 @@
+[25-Mar-2015 00:00:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/dlopezbun/public_html/www.emmanuelorozco.com/wp-content/themes/yo/index.php on line 1
+[25-Mar-2015 00:12:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/dlopezbun/public_html/www.emmanuelorozco.com/wp-content/themes/yo/index.php on line 1

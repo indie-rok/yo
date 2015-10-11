@@ -1,0 +1,43 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Open Sans'
+}
+
+p p>li{
+	margin: 20px 0;
+	font-size: 18px;
+}
+
+.fullscreenDiv { 
+	width: 100%;
+	min-height: 100%;
+	display: block;
+}
+
+.backgroundImg{
+	background: url('../img/backgroundFull1.png') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+.titleMain{
+	color: #fff;
+	margin-top: 20%;
+	text-align: right;	
+}
+
+.titleMain h4{
+	font-weight: 400;
+}
+
+.aboutMe h2{
+	margin-top: 5%;	
+}
+
+.aboutMe{
+	display: block;
+	margin: 0 auto;
+}
