@@ -69,7 +69,7 @@
 
 <div class="container">
     <div class="col-md-6 pull-right titleMain">
-      <h1>Me llamo Emmanuel</h1>
+      <h1>Me llamo Emmanuel holaaaaaa</h1>
       <h4>Me gusta tomar fotografias y hacer aplicaciones web.</h2>
       <btn class="btn btn-default" id="conoceme">Conoceme</btn>
     </div>
