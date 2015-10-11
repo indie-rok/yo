@@ -82,7 +82,7 @@
     <div class="container">
       <div class="aboutMe col-md-12">
         <h2>Bon Soir.</h2>
-          <p>Ahora mismo vivo en Playa del Carmen. Esta chingon.</p>
+          <p>Ahora mismo vivo en Playa del Carmen. Esta chingon.asdasd</p>
           <p>Me gusta tomar fotografias que inspiren personas.</p>
           <p>Hago aplicaciones web. Soy amante de Ruby on Rails y del cafe.</p>
           <p>Me gusta Paris.</p>
